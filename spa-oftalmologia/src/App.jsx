@@ -1,11 +1,13 @@
 // Colocar os imports
+import Hero from "./sections/Hero"
+import Profissionais from "./sections/Profissionais"
 
-function App() {
+export default function App() {
 
   return (
     <>
+    <Hero />
+    <Profissionais />
     </>
   )
 }
-
-export default App
