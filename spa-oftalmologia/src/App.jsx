@@ -1,18 +1,22 @@
 // Colocar os imports
 import Hero from "./sections/Hero";
+import Sobre from "./sections/Sobre";
+import Servicos from "./sections/Servicos";
 import Profissionais from "./sections/Profissionais";
 import Depoimentos from "./sections/Depoimentos";
-import Contato from "./sections/Contato";
 import Footer from "./sections/Footer";
+import Navbar from "./components/Navbar";
 
 export default function App() {
 
   return (
     <>
+    <Navbar />
     <Hero />
+    <Sobre />
+    <Servicos />
     <Profissionais />
     <Depoimentos />
-    <Contato />
     <Footer />
     </>
   )

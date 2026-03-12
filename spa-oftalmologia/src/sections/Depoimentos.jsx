@@ -23,7 +23,7 @@ export default function Depoimentos() {
   ];
 
   return (
-    <section className="depoimentos">
+    <section id="depoimentos" className="depoimentos">
       <div className="container">
         <h2>O que dizem nossos pacientes</h2>
         <div className="grid-depoimentos">

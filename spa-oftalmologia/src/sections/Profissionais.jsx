@@ -2,7 +2,7 @@ import CardProfissionais from "../components/CardProfissionais";
 
 export default function Profissionais() {
     return (
-        <section className="profissionais">
+        <section id="profissionais" className="profissionais">
             <div className="container">
                 <h2>Nossos Profissionais</h2>
                 <div className="grid-profissionais">
