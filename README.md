@@ -2,11 +2,11 @@
 
 Uma aplicação web moderna construída com React e Vite para gerenciar e facilitar os serviços de uma clínica de oftalmologia.
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Este é um Single Page Application (SPA) desenvolvido para otimizar o atendimento e a gestão de pacientes em uma clínica oftalmológica. A aplicação oferece uma interface intuitiva e responsiva para melhorar a experiência tanto de pacientes quanto de profissionais.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React** - Biblioteca JavaScript para construção de interfaces de usuário
 - **Vite** - Ferramenta de build rápida e moderna
@@ -14,7 +14,7 @@ Este é um Single Page Application (SPA) desenvolvido para otimizar o atendiment
 - **CSS** - Estilização da aplicação
 - **Node.js** - Runtime JavaScript para desenvolvimento
 
-## 🛠️ Configuração e Instalação
+## Configuração e Instalação
 
 ### Pré-requisitos
 
@@ -49,14 +49,7 @@ npm run dev
 http://localhost:5173
 ```
 
-## 📦 Scripts Disponíveis
-
-- `npm run dev` - Inicia o servidor de desenvolvimento com HMR (Hot Module Replacement)
-- `npm run build` - Constrói a aplicação para produção
-- `npm run preview` - Visualiza a build de produção localmente
-- `npm run lint` - Executa o ESLint para verificar a qualidade do código
-
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 SPA-de-Clinica-de-Oftalmologia/
@@ -74,50 +67,20 @@ SPA-de-Clinica-de-Oftalmologia/
 └── README.md
 ```
 
-## ✨ Recursos Principais
-
-- Interface responsiva e amigável
-- Gerenciamento eficiente de pacientes
-- Agendamento de consultas
-- Registro de histórico médico
-- Visualização de relatórios
-- Design moderno e intuitivo
-
-## 🔧 Plugins ESLint
+## Plugins ESLint
 
 Este projeto utiliza plugins oficiais do Vite para React:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react) - Utiliza [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) - Utiliza [SWC](https://swc.rs/)
 
-## 📖 React Compiler
+## React Compiler
 
 O React Compiler não está habilitado por padrão neste template devido ao impacto no desempenho de desenvolvimento e build. Para ativá-lo, consulte a [documentação oficial](https://react.dev/learn/react-compiler/installation).
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-1. Fazer um fork do projeto
-2. Criar uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abrir um Pull Request
-
-## 📝 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-## 👤 Autor
-
-**Cesar0208**
-
-- GitHub: [@Cesar0208](https://github.com/Cesar0208)
-
-## 📞 Suporte
-
-Se você tiver dúvidas ou encontrar problemas, sinta-se livre para abrir uma issue no repositório.
-
----
-
-**Desenvolvido com ❤️ para melhorar o atendimento oftalmológico**
+## Professor
+https://github.com/HudsonNeves
